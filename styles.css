@@ -1,15 +1,25 @@
-body{
-    background-color: black;
-    text-align: center;
-    color: white;
-    }
-  
-  .show{
-    background-color: white;
-    color: black;
+
+body {
+  background-color: #FCF6F5;
+  text-align: center;
+  color: #990011;
+  font-weight:normal;
   }
+  
+ 
+
   .row{
     margin-top: 100px;
     min-height: 100px;
     justify-content: space-between;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0%;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0%;
   }
